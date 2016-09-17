@@ -1,10 +1,19 @@
 {
   "stickers" : [
     {
-      "filename" : "who_you_epp@3x.sticker"
+      "filename" : "oyo@3x.sticker"
+    },
+    {
+      "filename" : "how_far@3x.sticker"
+    },
+    {
+      "filename" : "ehn@3x.sticker"
     },
     {
       "filename" : "Sticker Sequence.stickersequence"
+    },
+    {
+      "filename" : "Sticker Sequence-1.stickersequence"
     }
   ],
   "info" : {
@@ -12,6 +21,6 @@
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "small"
+    "grid-size" : "regular"
   }
 }
