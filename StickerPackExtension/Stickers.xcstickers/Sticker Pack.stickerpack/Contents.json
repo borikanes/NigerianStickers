@@ -1,19 +1,31 @@
 {
   "stickers" : [
     {
-      "filename" : "oyo@3x.sticker"
-    },
-    {
-      "filename" : "how_far@3x.sticker"
+      "filename" : "chai@3x.sticker"
     },
     {
       "filename" : "ehn@3x.sticker"
+    },
+    {
+      "filename" : "Flag@3x.sticker"
     },
     {
       "filename" : "Sticker Sequence.stickersequence"
     },
     {
       "filename" : "Sticker Sequence-1.stickersequence"
+    },
+    {
+      "filename" : "how_far_sequence.stickersequence"
+    },
+    {
+      "filename" : "ogini@3x.sticker"
+    },
+    {
+      "filename" : "yoruba_demon@3x.sticker"
+    },
+    {
+      "filename" : "Sticker Sequence-2.stickersequence"
     }
   ],
   "info" : {

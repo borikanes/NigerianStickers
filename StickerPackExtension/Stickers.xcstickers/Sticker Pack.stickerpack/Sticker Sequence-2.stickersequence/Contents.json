@@ -1,0 +1,58 @@
+{
+  "properties" : {
+    "duration" : 6,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "yoruba_demon1@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon2@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon3@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon4@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon5@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon6@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon7@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon8@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon9@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon10@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon11@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon12@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon13@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon14@3x.png"
+    },
+    {
+      "filename" : "yoruba_demon15@3x.png"
+    }
+  ]
+}
