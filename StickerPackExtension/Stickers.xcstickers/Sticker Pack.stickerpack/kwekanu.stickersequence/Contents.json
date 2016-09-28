@@ -1,0 +1,43 @@
+{
+  "properties" : {
+    "duration" : 8,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+      "filename" : "kwekanu1@3x.png"
+    },
+    {
+      "filename" : "kwekanu2@3x.png"
+    },
+    {
+      "filename" : "kwekanu3@3x.png"
+    },
+    {
+      "filename" : "kwekanu4@3x.png"
+    },
+    {
+      "filename" : "kwekanu5@3x.png"
+    },
+    {
+      "filename" : "kwekanu5-1@3x.png"
+    },
+    {
+      "filename" : "kwekanu5-2@3x.png"
+    },
+    {
+      "filename" : "kwekanu5-3@3x.png"
+    },
+    {
+      "filename" : "kwekanu6@3x.png"
+    },
+    {
+      "filename" : "kwekanu8@3x.png"
+    }
+  ]
+}

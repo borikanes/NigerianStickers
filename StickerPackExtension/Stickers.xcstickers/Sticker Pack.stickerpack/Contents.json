@@ -1,19 +1,16 @@
 {
   "stickers" : [
     {
-      "filename" : "chai@3x.sticker"
+      "filename" : "flag_animation.stickersequence"
+    },
+    {
+      "filename" : "oyo.stickersequence"
     },
     {
       "filename" : "ehn@3x.sticker"
     },
     {
-      "filename" : "Flag@3x.sticker"
-    },
-    {
-      "filename" : "Sticker Sequence.stickersequence"
-    },
-    {
-      "filename" : "Sticker Sequence-1.stickersequence"
+      "filename" : "chai@3x.sticker"
     },
     {
       "filename" : "how_far_sequence.stickersequence"
@@ -22,10 +19,22 @@
       "filename" : "ogini@3x.sticker"
     },
     {
-      "filename" : "yoruba_demon@3x.sticker"
+      "filename" : "yoruba_demon.stickersequence"
     },
     {
-      "filename" : "Sticker Sequence-2.stickersequence"
+      "filename" : "kwekanu.stickersequence"
+    },
+    {
+      "filename" : "hello-bae animation.stickersequence"
+    },
+    {
+      "filename" : "epp@3x.sticker"
+    },
+    {
+      "filename" : "sannu.stickersequence"
+    },
+    {
+      "filename" : "no-shaking.stickersequence"
     }
   ],
   "info" : {

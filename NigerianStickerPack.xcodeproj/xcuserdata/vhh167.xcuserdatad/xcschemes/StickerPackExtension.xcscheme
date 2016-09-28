@@ -67,16 +67,23 @@
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES"
       launchAutomaticallySubstyle = "2">
-      <PathRunnable
-         runnableDebuggingMode = "0"
-         FilePath = "/&lt;placeholder&gt;">
-      </PathRunnable>
+      <RemoteRunnable
+         runnableDebuggingMode = "1"
+         BundleIdentifier = "com.apple.MobileSMS">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "ED48DE981D8A472B00640446"
+            BuildableName = "StickerPackExtension.appex"
+            BlueprintName = "StickerPackExtension"
+            ReferencedContainer = "container:NigerianStickerPack.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED48DE941D8A472B00640446"
-            BuildableName = "NigerianStickerPack.app"
-            BlueprintName = "NigerianStickerPack"
+            BlueprintIdentifier = "ED48DE981D8A472B00640446"
+            BuildableName = "StickerPackExtension.appex"
+            BlueprintName = "StickerPackExtension"
             ReferencedContainer = "container:NigerianStickerPack.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

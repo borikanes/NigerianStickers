@@ -259,6 +259,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = me.borikanes.NigerianStickerPack.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -271,6 +272,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = me.borikanes.NigerianStickerPack.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -317,6 +319,7 @@
 				ED48DEA41D8A472B00640446 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ED48DEA61D8A472B00640446 /* Build configuration list for PBXNativeTarget "NigerianStickerPack" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +328,7 @@
 				ED48DEA81D8A472B00640446 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
